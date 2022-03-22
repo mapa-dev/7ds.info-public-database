@@ -1,51 +1,131 @@
 [
+  "unique": "kop_adventurerArthur",
+    "subtitle": "King Of Prophecies",
+    "title": "Adventurer Arthur",
+    "image": "https://sdsimages.s3.amazonaws.com/sdssprites/kop_adventurerArthur/head.png",
+    "race": "human",
+    "attribute": "speed",
+    "rarity": "sr",
+    "baseStats": [
+      "3913",
+      "520",
+      "385",
+      "6200",
+      "20%",
+      "30%",
+      "5%",
+      "50%",
+      "150%",
+      "30%",
+      "20%",
+      "140%",
+      "5%"
+    ],
+    "fullStats": [
+      "21516",
+      "4686",
+      "2714",
+      "51920",
+      "23%",
+      "33%",
+      "7%",
+      "32%",
+      "135%",
+      "32%",
+      "25%",
+      "143%",
+      "2%"
+    ],
+    "skill_01": [
+      "Sharp Blade",
+      "attack",
+      "Inflicts Detonate damage equal to 160% of Attack on one enemy.",
+      "attack",
+      "Inflicts Detonate damage equal to 240% of Attack on one enemy.",
+      "attack",
+      "Inflicts Detonate damage equal to 400% of Attack on one enemy."
+    ],
+    "skill_02": [
+      "Covering Fire",
+      "attack",
+      "Inflicts damage equal to 120% of Attack on all enemies.",
+      "debuff",
+      "Inflicts damage equal to 120% of Attack on all enemies. Disables Recovery Skills for 1 turn(s).",
+      "debuff",
+      "Inflicts damage equal to 180% of Attack on all enemies. Disables Recovery Skills for 2 turn(s)."
+    ],
+    "skill_03": [
+      "Cross Blade",
+      "ultimate",
+      "Inflicts damage equal to 560% of Attack on one enemy. Decreases Defense-related stats by 40% for 2 turn(s).",
+      "Multiplier: ",
+      "560/616/672/728/784/840%"
+    ],
+    "unique_1": ["The King's Will", "Increases HP-related stats by 6% at the start of the next turn if the hero takes damage. (Limit 5 time(s))"]
+  },
   {
-    "unique": "ir_purgatoryBan",
-    "subtitle": "Inmortal's Return",
-    "title": "Purgatory Ban",
-    "image": "https://sdsimages.s3.amazonaws.com/sdssprites/ir_purgatoryBan/head.png",
+    "unique": "cs_newKingArthur",
+    "subtitle": "Camelot's Sword",
+    "title": "New King Arthur",
+    "image": "https://sdsimages.s3.amazonaws.com/sdssprites/cs_newKingArthur/head.png",
     "race": "human",
     "attribute": "strength",
     "rarity": "ssr",
+    "baseStats": [
+      "3913",
+      "520",
+      "385",
+      "6200",
+      "20%",
+      "30%",
+      "5%",
+      "50%",
+      "150%",
+      "30%",
+      "20%",
+      "140%",
+      "5%"
+    ],
+    "fullStats": [
+      "23028",
+      "4842",
+      "3206",
+      "55880",
+      "23%",
+      "34.5%",
+      "7%",
+      "52%",
+      "155%",
+      "33%",
+      "27.5%",
+      "143%",
+      "2%"
+    ],
     "skill_01": [
-      "attack",
-      "Inflicts Detonate damage equal to 9% of the hero's Max HP on all enemies.",
-      "Inflicts Detonate damage equal to 14% of the hero's Max HP on all enemies.",
-      "Inflicts Detonate damage equal to 21% of the hero's Max HP on all enemies."
+      "Light Pillar",
+      "debuff",
+      "Inflicts damage equal to 220% of Attack on one enemy. Disables Recovery Skills for 1 turn(s).",
+      "debuff",
+      "Inflicts damage equal to 220% of Attack on one enemy. Disables Recovery Skills for 2 turn(s).",
+      "debuff",
+      "Inflicts damage equal to 360% of Attack on one enemy. Disables Recovery Skills for 2 turn(s)."
     ],
     "skill_02": [
-      "someth ing star",
-      "Applies an effect on all allies which restores 20% of diminished HP at the start of allies' turn for 2 turns, and increases Max HP by 10%.",
-      "Applies an effect on all allies which restores 30% of diminished HP at the start of allies' turn for 2 turns, and increases Max HP by 20%.",
-      "Applies an effect on all allies which restores 50% of diminished HP at the start of allies' turn for 3 turns, and increases Max HP by 30%."
+      "Royal Sword",
+      "buff",
+      "Increases the basic stats of ONE ally by 20% for 2 turn(s).",
+      "buff",
+      "Increases the basic stats of ALL allies by 20% for 2 turn(s).",
+      "buff",
+      "Remove Debuffs from all allies. Increases basic stats by 30% and grants Debuff Immunity for 3 turn(s)."
     ],
     "skill_03": [
+      "Legendary Knight",
       "ultimate",
-      "Inflicts damage equal to 30% of Max HP on all enemies."
+      "Inflicts Sever damage equal to 630% of Attack on one enemy.",
+      "Multiplier: ",
+      "630/693/756/819/882/945%"
     ],
-    "unique_1": "This is the detail of the unique tab"
-  },
-  {
-    "unique": "aof_covenantOfLightLudociel",
-    "title": "Covenant Of Light Ludociel",
-    "image": "https://sdsimages.s3.amazonaws.com/sdssprites/aof_covenantOfLightLudociel/head.png",
-    "race": "goddess",
-    "attribute": "speed",
-    "rarity": "ssr",
-    "skill_01": [
-      "attack",
-      "Infhero's Max HP on all enemies.",
-      "Iax HP on all enemies.",
-      "Inflicts Detonax HP on all enemies."
-    ],
-    "skill_02": [
-      "someth ing star",
-      "Aps 20% of diminished HP at the start of allies' turn for 2 turns, and increases Max HP by 10%.",
-      "Applies an effect on all alliestart of allies' turn for 2 turns, and increases Max HP by 20%.",
-      "Applies an effect on all rt of allies' turn for 3 turns, and increases Max HP by 30%."
-    ],
-    "skill_03": ["ultimate", "Ludociel's ultimate."],
-    "unique_1": "Increases Goddess allies' basic stats by 8% every time an ally uses a Stance or Buff Skill. (Limit 5 times, applies when entering battle)",
-    "unique_s": "Increases the hero's attack by 5% for each Stance or Buff on the enemy when using a skill. (Applies before skill activation)"
+    "unique_1": ["Charisma", "Increase Human allies' HP-related stats by 15%."]
   }
 ]
