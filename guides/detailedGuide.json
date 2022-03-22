@@ -1,0 +1,25 @@
+[
+  {
+      "unique": "hraesvelgr",
+      "title": "Hraesvelgr Guide",
+      "author": "Scythe guild",
+      "image": "",
+      "favChar": ["matrona", "the one", "megelda", "traitor meliodas"],
+      "gear": ["hp def", "atck crit", "atck crit", "atck crit"],
+      "firstRewards": ["stone", "cristal"],
+      "possibleRewards": ["blue material", "purple material", "etc"],
+      "strategy": [
+        "Phase 1",
+        "You should save up cards in the first phase as his damage output isn’t too high. Just get his HP slowly down and move on when you feel ready.",
+        "This is also the ideal phase to build up Meliodas’s and Megelda’s passive.",
+        "https://...",
+        "Phase 2",
+        "Phase 2 is similar to Phase 1 but he deals a bit more damage. Just do the same things as you did before. ",
+        "It would be best if you would move with around 4/5 Meliodas’s DMG reductions into Phase 3",
+        "https://...",
+        "Phase 3",
+        "Try to kill this phase as fast as possible without using to many Meliodas’s single target cards as possible"
+      ],
+      "additionalInfo": "The best Artefact Set for this fight is “No.2 Guardian of Istal” as it will heal your team nearly every turn due to the frequent use of debuff cards by him. • An alternative is the Artefact set “No.19 Hraesvelgr Nest” as it will increase the DMG done by your single target cards massively."
+    }
+]
